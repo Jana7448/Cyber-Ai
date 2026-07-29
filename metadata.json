@@ -1,0 +1,6 @@
+{
+  "name": "CyberGuard AI",
+  "description": "Dedicated Cybersecurity AI Chatbot featuring 20 specialized Cyber Guard modules, threat analysis, code auditing, log triage, file uploads, and voice support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
